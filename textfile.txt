@@ -1,0 +1,4 @@
+Bon dia !
+
+Este archivo es un test.
+Es mi primer ejercicio de git en IT Academy. 
